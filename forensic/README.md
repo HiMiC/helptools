@@ -1,10 +1,10 @@
-### /scalpel2.1
+### scalpel2.1
 
 Scalpel version 2.1 
 
 [source](https://github.com/sleuthkit/scalpel)
 
-### /scalpel2.0
+### scalpel2.0
 
 Scalpel version 2.0
 
